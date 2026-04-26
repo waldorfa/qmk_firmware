@@ -5,7 +5,7 @@
     "maintainer": "qmk",
     "usb": {
         "vid": "0x5350",
-        "pid": "0x4084",
+        "pid": "0x0001",
         "device_version": "0.0.1"
     },
     "build": {
